@@ -1,0 +1,18 @@
+# Project exclude paths
+/jdbcAllListSearch/target/
+/jdbcBatchInsert/target/
+/jdbcConnection/target/
+/jdbcConnection2/target/
+/jdbcConnection3/target/
+/jdbcDelete/target/
+/jdbcInsert1/target/
+/jdbcInsert2/target/
+/jdbcInsert3/target/
+/jdbcInsert4/target/
+/jdbcPreparedStatement/target/
+/jdbcProje/target/
+/jdbcSearch/target/
+/jdbcStatement1/target/
+/jdbcStatement2/target/
+/jdbcStatement3/target/
+/jdbcUpdate/target/
